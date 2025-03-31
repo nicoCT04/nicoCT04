@@ -1,23 +1,23 @@
-# 👋 ¡Hola! Soy @nicoCT04
+# 👋 Hi! I'm @nicoCT04
 
-🎓 Soy estudiante de **Ingeniería en Computación y Tecnología de la Información** en la **Universidad del Valle de Guatemala (UVG)**, actualmente cursando el **tercer año**.
+🎓 I'm a student of **Computer Science and Information Technology Engineering** at the **Universidad del Valle de Guatemala (UVG)**, currently in my **third year**.
 
-👨‍💻 Me interesa el **desarrollo web**, tanto en el **frontend** como en el **backend**.  
-Estoy aprendiendo a construir soluciones completas que integren buenas prácticas, rendimiento y diseño funcional.
+👨‍💻 I'm interested in **web development**, both **frontend** and **backend**.  
+I'm learning to build complete solutions that follow best practices, performance optimization, and clean design.
 
-✅ Tengo conocimientos en:
+✅ I have experience with:
 - **Python**, **Java**, **Kotlin**
+- **PostgreSQL** and relational databases
 
-🧠 Actualmente estoy aprendiendo y trabajando con:
-- Herramientas y frameworks para desarrollo **web fullstack**
-- Gestión de versiones con **Git/GitHub**
-- **PostgreSQL** y bases de datos relacionales
-- **Docker** y despliegue básico de servicios
+🧠 I'm currently learning and working with:
+- Tools and frameworks for **fullstack web development**
+- Version control with **Git/GitHub**
+- **Docker** and basic service deployment
 
-💼 Estoy buscando **oportunidades de trabajo** o proyectos en los que pueda colaborar para adquirir experiencia práctica y seguir aprendiendo en equipo.
+💼 I'm looking for **job opportunities** or projects where I can collaborate to gain practical experience and continue learning as part of a team.
 
-📫 Puedes contactarme a través de mi correo: **nicoconcua@gmail.com**
+📫 You can reach me at: **nicoconcua@gmail.com**
 
 ---
 
-⚡ **Dato curioso:** Me gusta mucho hacer ejercicio: jugar fútbol, levantar pesas y correr.
+⚡ **Fun fact:** I really enjoy working out — playing soccer, lifting weights, and running.
