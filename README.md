@@ -6,7 +6,7 @@
 I'm learning to build complete solutions that follow best practices, performance optimization, and clean design.
 
 ✅ I have experience with:
-- **Python**, **Java**, **Kotlin**
+- **Python**, **Javac**, **Kotlin**, **JavaScript**, **HTML**, **CSS**
 - **PostgreSQL** and relational databases
 
 🧠 I'm currently learning and working with:
